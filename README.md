@@ -41,7 +41,7 @@ The following libraries are used in this project:
 - First, clone the project:
 
 ```sh
-git clone
+git clone https://github.com/Adityakitukale499/paywize-assignment.git
 ```
 
 - Then, start the project on localhost:
@@ -65,8 +65,7 @@ npm run dev
 ## Canvas
 
 <p align="center">
-<img src="assets/canvas-preview.png" alt="canvas" width="800"/>
+<img src="./public/assets/canvas-preview.png" alt="canvas" width="800"/>
 </p>
 
 </center>
-# paywize-assignment
