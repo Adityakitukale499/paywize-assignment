@@ -23,8 +23,6 @@ This web-application provides an intuitive drawing experience with the following
 
 This project is built using the following technologies:
 
-- **HTML**
-- **JavaScript**
 - **Vite + ReactJS**
 - **SASS**
 - **Vercel** (for deployment)
