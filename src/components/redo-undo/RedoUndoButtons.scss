@@ -8,6 +8,7 @@
   @include br(6);
   background-color: $c-white;
   box-shadow: $c-black-35 0rem 0.25rem 0.5rem;
+  margin-left: 80px !important;
 
   .redo,
   .undo {
